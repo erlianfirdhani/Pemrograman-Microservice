@@ -1,0 +1,5 @@
+com\erlian\product\repository\productRepository.class
+com\erlian\product\service\productService.class
+com\erlian\product\entity\Product.class
+com\erlian\product\Controller\productController.class
+com\erlian\product\ProductApplication.class
